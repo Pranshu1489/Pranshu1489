@@ -1,9 +1,10 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning Data-structures
-- 🤔 I’m looking for help with python Projectts
+- 🤔 I’m looking for help with python Projects
 - 💬 Ask me about:
 - 📫 How to reach me: just drop a mail at vermapranshu84@gmail.com
-- ![linkedIn logo](https://user-images.githubusercontent.com/72308794/133114674-33bd8c7e-94c2-48a9-92be-314670089f4d.png)
+![in0C53A4](https://user-images.githubusercontent.com/72308794/133115197-e94c672f-169d-4bfa-a8dc-865a0234dbd1.png)
+
 
 
