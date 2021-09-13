@@ -1,4 +1,4 @@
-I'm Pranshu verma</h1>
+<h1>I'm Pranshu verma</h1>
 <h3 align="center">A passionate frontend developer, Python Programmer from India</h3>
 
 - 📫 How to reach me **vermapranshu84@gmail.com**
